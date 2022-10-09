@@ -1,0 +1,241 @@
+[
+    {
+        "playlist-name": "jas",
+        "playlist": {
+            "ID": "1",
+            "song-name": "Party In The USA",
+            "artist": "Miley Cyrus",
+            "genre": "pop",
+            "song-length": "208"
+        }
+    },
+    {
+        "playlist-name": "kite",
+        "playlist": {
+            "ID": "1",
+            "song-name": "Party In The USA",
+            "artist": "Miley Cyrus",
+            "genre": "pop",
+            "song-length": "208"
+        }
+    },
+    {
+        "playlist-name": "pop",
+        "playlist": [
+            {
+                "ID": "1",
+                "song-name": "Party In The USA",
+                "artist": "Miley Cyrus",
+                "genre": "pop",
+                "song-length": "208"
+            },
+            {
+                "ID": "2",
+                "song-name": "Umbrella",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "276"
+            },
+            {
+                "ID": "3",
+                "song-name": "Only Love Can Hurt Like This",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "232"
+            },
+            {
+                "ID": "4",
+                "song-name": "Wrecking Ball",
+                "artist": "Miley Cyrus",
+                "genre": "pop",
+                "song-length": "221"
+            },
+            {
+                "ID": "9",
+                "song-name": "Another One Bites The Dust",
+                "artist": "Queen",
+                "genre": "pop",
+                "song-length": "215"
+            },
+            {
+                "ID": "12",
+                "song-name": "Diamonds",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "225"
+            },
+            {
+                "ID": "13",
+                "song-name": "Lullaby",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "204"
+            },
+            {
+                "ID": "15",
+                "song-name": "We Found Love",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "215"
+            },
+            {
+                "ID": "17",
+                "song-name": "Dancing Queen",
+                "artist": "Abba",
+                "genre": "pop",
+                "song-length": "230"
+            },
+            {
+                "ID": "18",
+                "song-name": "Angel Eyes",
+                "artist": "Abba",
+                "genre": "pop",
+                "song-length": "262"
+            }
+        ]
+    },
+    {
+        "playlist-name": "jas 2",
+        "playlist": [
+            {
+                "ID": "1",
+                "song-name": "Party In The USA",
+                "artist": "Miley Cyrus",
+                "genre": "pop",
+                "song-length": "208"
+            },
+            {
+                "ID": "2",
+                "song-name": "Umbrella",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "276"
+            },
+            {
+                "ID": "3",
+                "song-name": "Only Love Can Hurt Like This",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "232"
+            },
+            {
+                "ID": "4",
+                "song-name": "Wrecking Ball",
+                "artist": "Miley Cyrus",
+                "genre": "pop",
+                "song-length": "221"
+            },
+            {
+                "ID": "9",
+                "song-name": "Another One Bites The Dust",
+                "artist": "Queen",
+                "genre": "pop",
+                "song-length": "215"
+            },
+            {
+                "ID": "12",
+                "song-name": "Diamonds",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "225"
+            },
+            {
+                "ID": "13",
+                "song-name": "Lullaby",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "204"
+            },
+            {
+                "ID": "15",
+                "song-name": "We Found Love",
+                "artist": "Rihanna",
+                "genre": "pop",
+                "song-length": "215"
+            },
+            {
+                "ID": "17",
+                "song-name": "Dancing Queen",
+                "artist": "Abba",
+                "genre": "pop",
+                "song-length": "230"
+            },
+            {
+                "ID": "18",
+                "song-name": "Angel Eyes",
+                "artist": "Abba",
+                "genre": "pop",
+                "song-length": "262"
+            }
+        ]
+    },
+    {
+        "playlist-name": "pop 2",
+        "playlist": [
+            {
+                "ID": "11",
+                "song-name": "Stairway to heaven",
+                "artist": "Led Zeppelin",
+                "genre": "rock",
+                "song-length": "475"
+            }
+        ]
+    },
+    {
+        "playlist-name": "pop 3",
+        "playlist": [
+            {
+                "ID": "3",
+                "song-name": "Only Love Can Hurt Like This",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "232"
+            }
+        ]
+    },
+    {
+        "playlist-name": "pop 3",
+        "playlist": [
+            {
+                "ID": "3",
+                "song-name": "Only Love Can Hurt Like This",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "232"
+            }
+        ]
+    },
+    {
+        "playlist-name": "jasmine2.0",
+        "playlist": [
+            {
+                "ID": "3",
+                "song-name": "Only Love Can Hurt Like This",
+                "artist": "Paloma Faith",
+                "genre": "pop",
+                "song-length": "232"
+            },
+            {
+                "ID": "4",
+                "song-name": "Wrecking Ball",
+                "artist": "Miley Cyrus",
+                "genre": "pop",
+                "song-length": "221"
+            },
+            {
+                "ID": "5",
+                "song-name": "Chasing Cars",
+                "artist": "Snow Patrol",
+                "genre": "indie",
+                "song-length": "267"
+            },
+            {
+                "ID": "6",
+                "song-name": "Lady Marmalade",
+                "artist": "Labelle",
+                "genre": "disco",
+                "song-length": "356"
+            }
+        ]
+    }
+]
